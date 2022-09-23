@@ -16,6 +16,14 @@ We teach AP CSP using the Beauty and Joy of Computing curriculum. BJC utilizes t
 ### Standards Referenced
 List The NY State Computer Science standards you will be covering in this unit. Provide the number and name (e.g. 4-6.CT.1 Computational Thinking, Modeling and Simulation)
 
+9-12.CT.1 Create a simple digital model that makes predictions of outcomes.
+9-12.CT.4 Implement a program using a combination of student-defined and third-party functions to organize the computation.
+9-12.CT.7 Design or remix a program that utilizes a data structure to maintain changes to related pieces of data.
+9-12.CT.8 Develop a program that effectively uses control structures in order to create a computer program for practical intent, personal expression, or to address a societal issue.
+9-12.CT.9 Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
+9-12.CT.10 Collaboratively design and develop a program or computational artifact for a specific audience and create documentation outlining implementation features to inform collaborators and users.
+9-12.DL.2 Communicate and work collaboratively with others using digital tools to support individual learning and contribute to the learning of others.
+
 ---
 
 ### Tools Used
