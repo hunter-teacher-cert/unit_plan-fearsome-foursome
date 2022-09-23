@@ -39,8 +39,10 @@ We will use the Python programming language. At this point I am thinking we'll u
 (include any links/books/readings to be used during this unit): We will add these as we go.
 
 Think Python (Downey):
-Interactive version: https://runestone.academy/runestone/books/published/thinkcspy/index.html
-Text (PDF, HTML...): https://greenteapress.com/wp/think-python-2e/
+
+  Interactive version: https://runestone.academy/runestone/books/published/thinkcspy/index.html
+
+  Text (PDF, HTML...): https://greenteapress.com/wp/think-python-2e/
 
 Thonny, the "Goldilocks IDE": https://thonny.org/
 
