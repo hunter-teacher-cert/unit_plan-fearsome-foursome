@@ -4,7 +4,7 @@ by Kirk Martin, Usman Ahmed, Ed Hawkins, Wayne Tobias
 -----
 
 ### General Overview
-This is intended to be the final unit of the year for our AP CSP classes. It is intended as a bridge from AP CSP to prepare the students for AP CSA. Students will become familiar with text based coding by using Python to develop games.
+This is intended to be the final unit of the year for our AP CSP classes. It is intended as a bridge from AP CSP to prepare the students for AP CSA. Students will become familiar with text-based coding by using Python to develop games.
 
 ---
 
@@ -36,19 +36,27 @@ We will use the Python programming language. At this point I am thinking we'll u
 ---
 
 ### Resources
-(include any links/books/readings to be used during this unit)
+(include any links/books/readings to be used during this unit): We will add these as we go.
+
+Think Python (Downey):
+Interactive version: https://runestone.academy/runestone/books/published/thinkcspy/index.html
+Text (PDF, HTML...): https://greenteapress.com/wp/think-python-2e/
+
+Thonny, the "Goldilocks IDE": https://thonny.org/
+
 
 ---
 
 ### Lessons
 Total lenght: 3 Weeks (need to check the calendar to make sure we're not restricted to 2)
 
-(list each lesson with main topic(s))
+(list each lesson with main topic(s)): We will add these as we go.
 
 ---
 
 ### Assesments
 Formative Assessments: I am thinking 2 projects where the students develop a game we assign.
+
 Summative Assessment: Final project - An original game developed by students individually or in small groups.
 
 ---
