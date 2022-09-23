@@ -33,6 +33,8 @@ We teach AP CSP using the Beauty and Joy of Computing curriculum. BJC utilizes t
 ### Tools Used
 We will use the Python programming language. At this point I am thinking we'll use Thonny but we need to flesh this out.
 
+Thonny, the "Goldilocks IDE": https://thonny.org/
+
 ---
 
 ### Resources
@@ -43,8 +45,6 @@ Think Python (Downey):
   Interactive version: https://runestone.academy/runestone/books/published/thinkcspy/index.html
 
   Text (PDF, HTML...): https://greenteapress.com/wp/think-python-2e/
-
-Thonny, the "Goldilocks IDE": https://thonny.org/
 
 
 ---
