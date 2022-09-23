@@ -4,10 +4,10 @@ by Kirk Martin, Usman Ahmed, Ed Hawkins, Wayne Tobias
 -----
 
 ### General Overview
-(include here description of unit, what class(es) it fits into, when...)
+This is intended to be the final unit of the year for our AP CSP classes. It is intended as a bridge from AP CSP to prepare the students for AP CSA. Students will become familiar with text based coding by using Python to develop games.
 
 ---
-This is intended to be the final unit of the year for our AP CSP classes. It is intended as a bridge from AP CSP to prepare the students for AP CSA. Students will become familiar with text based coding by using Python to develop games.
+
 ### Motivation for Unit
 (why have you decided to make this?)
 
