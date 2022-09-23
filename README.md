@@ -1,4 +1,4 @@
-# UNIT PLAN NAME
+# Game Development with Python
 by Kirk Martin, Usman Ahmed, Ed Hawkins, Wayne Tobias
 
 -----
