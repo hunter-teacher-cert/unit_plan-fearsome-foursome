@@ -57,7 +57,7 @@ Total length: 4 Weeks
 ---
 
 ### Assesments
-Formative Assessments: I am thinking 2 projects where the students develop a game we assign.
+Formative Assessments: I am thinking 2 projects where the students develop games we assign.
 
 Summative Assessment: Final project - An original game developed by students individually or in small groups.
 
