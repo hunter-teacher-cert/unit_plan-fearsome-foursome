@@ -50,7 +50,7 @@ Think Python (Downey):
 ---
 
 ### Lessons
-Total lenght: 3 Weeks (need to check the calendar to make sure we're not restricted to 2)
+Total length: 4 Weeks
 
 (list each lesson with main topic(s)): We will add these as we go.
 
