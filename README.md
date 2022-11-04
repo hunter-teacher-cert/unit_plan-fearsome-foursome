@@ -52,23 +52,35 @@ Think Python (Downey):
 ### Lessons
 Total length: 4 Weeks
 
-(list each lesson with main topic(s)): We will add these as we go.
+(list each lesson with main topic(s)):
 #### Week 1 - Make a Number Guessing Game
+
 Day 1: Print statements, variables, getting text input, concatenate strings
+
 Day 2: Arithmetic operators, simple conditional statements
+
 Day 3: Random numbers
+
 Day 4-5: Lab/Project: Number Guessing Game
 
 #### Week 2 - Make a Rock, Paper, Scissors Game
+
 Day 1: Functions - Definition, parameters, arguments
+
 Day 2:	Functions with 2 parameters
+
 Day 3:	Compound conditional statements
+
 Day 4-5: Lab/Project: Rock, Paper, Scissors Game
 
 #### Week 3 - Make a Magic 8 Ball Game and start Final Project
+
 Day 1: Lists
+
 Day 2-3: Lab/Project: Majic 8 Ball Game
+
 Day 4: Introduce Final Project and Brainstorm Ideas
+
 Day 5: Form Groups and Propose Project Ideas
 
 #### Week 4 - Final Project
