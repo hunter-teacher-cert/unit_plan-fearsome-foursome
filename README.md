@@ -57,7 +57,7 @@ Total length: 4 Weeks
 ---
 
 ### Assesments
-Formative Assessments: I am thinking 2 projects where the students develop games we assign.
+Formative Assessments: 3 Projects: Number Guesser; Rock, Paper, Scissors; Magic 8 Ball
 
 Summative Assessment: Final project - An original game developed by students individually or in small groups.
 
