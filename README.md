@@ -77,7 +77,7 @@ Total length: 4 Weeks
 
 **Day 1:** Lists
 
-**Day 2-3:** Lab/Project: Majic 8 Ball Game
+**Day 2-3:** Lab/Project: Magic 8 Ball Game
 
 **Day 4:** Introduce Final Project and Brainstorm Ideas
 
