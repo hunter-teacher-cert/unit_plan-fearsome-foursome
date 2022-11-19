@@ -1,6 +1,8 @@
 #Rock, Paper, Scissors (Advanced) 
 #By Fearsome Foursome - Wayne Tobias, Usman Ahmed, Kirk Martin, Ed Hawkins
 
+#This is Example Code for the Rock, Paper, Scissors project (Advanced Version)
+
 import random
 
 

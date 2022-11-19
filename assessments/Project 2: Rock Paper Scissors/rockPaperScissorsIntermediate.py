@@ -1,6 +1,8 @@
 #Rock, Paper, Scissors (Intermediate) 
 #By Fearsome Foursome - Wayne Tobias, Usman Ahmed, Kirk Martin, Ed Hawkins
 
+#This is Example Code for the Rock, Paper, Scissors project (Intermediate Version)
+
 import random
 
 #Best of 3 to win, create variables to keep track of wins

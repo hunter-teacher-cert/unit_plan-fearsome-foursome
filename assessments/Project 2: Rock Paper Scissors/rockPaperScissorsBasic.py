@@ -1,6 +1,8 @@
 #Rock, Paper, Scissors (Basic) 
 #By Fearsome Foursome - Wayne Tobias, Usman Ahmed, Kirk Martin, Ed Hawkins
 
+#This is Example Code for the Rock, Paper, Scissors project (Basic Version)
+
 import random
 
 #Ask player to choose Rock, Paper, or Scissors (default is Rock)   
