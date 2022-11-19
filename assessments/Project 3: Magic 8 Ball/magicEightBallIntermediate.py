@@ -1,6 +1,8 @@
 #Magic Eight Ball (Intermediate) 
 #By Fearsome Foursome - Wayne Tobias, Usman Ahmed, Kirk Martin, Ed Hawkins
 
+#This is Example Code for the Magic 8 Ball project (Intermediate Version)
+
 import random
 
 #Variables for responses
