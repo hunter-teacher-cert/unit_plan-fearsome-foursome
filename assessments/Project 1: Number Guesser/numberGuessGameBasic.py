@@ -1,3 +1,8 @@
+#Number Guesser (Basic Version) 
+#By Fearsome Foursome - Wayne Tobias, Usman Ahmed, Kirk Martin, Ed Hawkins
+
+#This is Example Code for the Basic Version of Number Guesser Project
+
 import random
 
 #Variable to track number of guesses
