@@ -19,7 +19,7 @@ answers=[yes1, yes2, no1, no2, maybe1, maybe2]
 #Variable for exit condition ("y" to play again)
 playAgain = "y"
 
-#While loop to continue game until player guesses the Secret Number
+#While loop to continue as long as the player wants to ask another question
 while playAgain == "y":
     
 #Ask player to input a question   
@@ -36,4 +36,4 @@ while playAgain == "y":
   print(answer)
 
 #Ask player to play again   
-  playAgain = str(input('Enter y to play again: '))
+  playAgain = str(input('Enter y to ask another question: '))
